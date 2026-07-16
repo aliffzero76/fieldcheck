@@ -80,6 +80,5 @@ lib/
 
 ## Screenshots / demo video
 
-*(Add screenshots or a short screen recording here showing: taking a
-photo, fetching GPS coordinates, and a saved check-in appearing in the
-history list after an app restart.)*
+Demo video showing the photo, GPS, and saved-history features working:
+[WhatsApp Video 2026-07-16 at 09.53.48 (1).mp4](WhatsApp%20Video%202026-07-16%20at%2009.53.48%20(1).mp4)
